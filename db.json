@@ -19,7 +19,7 @@
         {
             "id":1,
             "name": "Jane Doe",
-            "image": "https://example.com/doctor-image.jpg",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
             "specialization": "Dermatologist",
             "experience": 10,
             "location": "Los Angeles",
@@ -30,7 +30,29 @@
         {
             "id":2,
             "name": "Mark Johnson",
-            "image": "https://example.com/doctor-image.jpg",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Pediatrician",
+            "experience": 5,
+            "location": "Chicago",
+            "date": "2023-04-06T09:30:00.000Z",
+            "slots": 1,
+            "fee": 100
+        },
+        {
+            "id":3,
+            "name": "Mark kolin",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Pediatrician",
+            "experience": 5,
+            "location": "Chicago",
+            "date": "2023-04-06T09:30:00.000Z",
+            "slots": 1,
+            "fee": 100
+        },
+        {
+            "id":4,
+            "name": "zuber",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
             "specialization": "Pediatrician",
             "experience": 5,
             "location": "Chicago",
@@ -38,5 +60,65 @@
             "slots": 1,
             "fee": 100
         }
+        ,
+        {
+            "id":5,
+            "name": "helin",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Pediatrician",
+            "experience": 5,
+            "location": "Chicago",
+            "date": "2023-04-06T09:30:00.000Z",
+            "slots": 1,
+            "fee": 100
+        },
+        {
+            "id":6,
+            "name": "rocky",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Pediatrician",
+            "experience": 5,
+            "location": "Chicago",
+            "date": "2023-04-06T09:30:00.000Z",
+            "slots": 1,
+            "fee": 100
+        }
+        
+    ],
+    "appointments":[
+        {
+            "id":1,
+            "name": "Mark Johnson",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Pediatrician",
+            "experience": 5,
+            "location": "Chicago",
+            "date": "2023-04-06T09:30:00.000Z",
+            "slots": 1,
+            "fee": 100
+        },
+        {
+            "id":2,
+            "name": "Jane Doe",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Dermatologist",
+            "experience": 10,
+            "location": "Los Angeles",
+            "date": "2023-04-05T12:00:00.000Z",
+            "slots": 2,
+            "fee": 150
+        },
+        {
+            "id":3,
+            "name": "Mark kolin",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2roClgmkOaZPLr_v_G-n4PNIAXf8BDDUVA&usqp=CAU",
+            "specialization": "Pediatrician",
+            "experience": 5,
+            "location": "Chicago",
+            "date": "2023-04-06T09:30:00.000Z",
+            "slots": 1,
+            "fee": 100
+        }
+        
     ]
 }
